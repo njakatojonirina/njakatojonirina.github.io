@@ -9399,9 +9399,13 @@ textarea.form-control {
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
     border-radius: 50%; }
-    .contact-section .box .icon span {
+  .contact-section .box .icon span {
       color: #ffbd39;
       font-size: 30px; }
+    .contact-section .box .icon svg {
+      width: 30px;
+      height: 30px;
+      fill: #ffbd39; }
   .contact-section .box h3 {
     font-size: 17px;
     font-weight: 500;
